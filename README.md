@@ -22,9 +22,11 @@ Formando em **Análise e Desenvolvimento de Sistemas**
 
 
 ## TECNOLOGIAS E FERRAMENTAS
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,bootstrap,tailwind,mysql,postgresql,docker,git,github,linux,java,spring,python,php" />
 </p>
+
 <br>
 
 ---
