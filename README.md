@@ -13,7 +13,8 @@
 ---
 
 ## SOBRE MIM
-> Sou um Desenvolvedor **Full Stack**, Formando em **Análise e Desenvolvimento de Sistemas**
+Sou um Desenvolvedor **Full Stack**   
+Formando em **Análise e Desenvolvimento de Sistemas**
 
 <br>
 
