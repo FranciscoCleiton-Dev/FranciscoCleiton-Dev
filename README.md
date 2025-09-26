@@ -25,6 +25,7 @@ Formando em **Análise e Desenvolvimento de Sistemas**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,bootstrap,tailwind,mysql,postgresql,docker,git,github,linux,java,spring,python,php" />
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
 <br>
