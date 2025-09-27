@@ -24,8 +24,19 @@ Formando em **Análise e Desenvolvimento de Sistemas**
 ## TECNOLOGIAS E FERRAMENTAS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,bootstrap,tailwind,mysql,postgresql,docker,git,github,linux,java,spring,python,php" />
   <img src="https://skillicons.dev/icons?i=js,java,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,next,bootstrap,tailwind,spring" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,dynamodb" />
 </p>
 
 <br>
